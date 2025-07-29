@@ -66,14 +66,12 @@ For general ATAK support:
 
 This plugin does not collect any personal data. For full details, see our [Privacy Policy](PRIVACY_POLICY.md).
 
-
-## Acknowledgments
-
+## Acknowledgements, Data Sources & Attribution
 - The TAK Product Center for the TAK ecosystem
-- Joshua Fuller for ATAKMaps 
--Iconset -Emergency Management Spatial Information Network Australia  Australian All Hazards Symbol Set - https://www.emsina.org/australian-all-hazards-symbol-set/assets
-- Emergency Management Facilities Database - GA Gov - https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147776
-- Airport locations - openaip.net
+- Joshua Fuller for ATAKMaps repository
+- **Icon Set**: Emergency Management Spatial Information Network Australia (EMSINA) - [Australian All Hazards Symbol Set](https://www.emsina.org/australian-all-hazards-symbol-set/assets)
+- **Facility Data**: Emergency Management Facilities Database - [Geoscience Australia](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/147776)
+- **Airport Locations**: [OpenAIP.net](https://www.openaip.net)
 
 ---
 
