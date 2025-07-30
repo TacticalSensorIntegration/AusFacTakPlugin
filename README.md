@@ -24,27 +24,26 @@ A Team Awareness Kit (TAK) plugin for Australian Emergency Facilities, providing
 1. Download `AAHS.zip` from this repository
 2. In ATAK, navigate to:
    - **Point Dropper** menu
-   - **Settings** → **Import Icons**
-3. Select the downloaded `AAHS.zip` file
+   - **Settings** → **Add Iconset**
+3. Select the downloaded `AAHS(1).zip` file
 4. Australian emergency facility icons are now available
 
 ### Step 4: Install AusEmergFac Plugin
 
-1. Download the **Aus Facilities ATAK Plugin** from Google Play Store
+1. Download the **Aus Facilities ATAK Plugin** APK from this repo or from the Google Play Store
 2. The plugin will automatically integrate with ATAK
 3. Restart ATAK if prompted
 
 ## Usage
 
 1. **Enable the plugin** in ATAK (if not auto-enabled):
-   - Settings → Tool Preferences → Manage Tools
-   - Enable AusEmergFac
+   - Hamburger menu → Plugins → Enable/Load the plugin
 
 2. **Access emergency facilities**:
    - Click on the Australian Facilities plugin icon
    - Apply relevant search filters:
      - Facility type (Airport, Fire Station, Police, etc.)
-     - X km Distance, or closest 10
+     - X km Distance, or closest 10 based on location of ATAK EUD.
 
 3. **View facilities** on the map with appropriate AAHS icons
 
@@ -53,6 +52,7 @@ A Team Awareness Kit (TAK) plugin for Australian Emergency Facilities, providing
 - `AAHS.zip` - Icon set for Australian emergency facilities
 - `PRIVACY_POLICY.md` - Privacy policy for the plugin
 - `README.md` - This file
+- ATAK-Plugin-AusEmergFacPlugin ...APK.    (alternate to PlayStore Download)
 
 ## Support
 
